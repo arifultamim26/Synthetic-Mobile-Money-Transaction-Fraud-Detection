@@ -1,0 +1,26 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Generated model artifacts and output
+models/
+outputs/
+*.joblib
+*.pkl
+
+# Local uncompressed dataset copy (the compressed source is tracked)
+data/synthetic_mobile_money_transaction_dataset.csv
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

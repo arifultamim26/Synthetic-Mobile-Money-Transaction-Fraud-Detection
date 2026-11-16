@@ -1,0 +1,20 @@
+# Core Scientific and Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning and Imbalanced Learning
+scikit-learn>=1.3.0
+imbalanced-learn>=0.11.0
+xgboost>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Persistence & Performance Utilities
+joblib>=1.3.0
+
+# Interactive Computing
+jupyter>=1.0.0
+ipykernel>=6.25.0
+notebook>=7.0.0
